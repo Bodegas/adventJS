@@ -1,3 +1,4 @@
-import createXmasTree from "./04.js";
+import daysToXmas from "./05.js";
 
-createXmasTree(5);
+const date1 = new Date("Dec 26, 2021 00:00:00");
+daysToXmas(date1);
