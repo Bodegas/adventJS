@@ -1,4 +1,3 @@
-import daysToXmas from "./05.js";
+import sumPairs from "./06.js";
 
-const date1 = new Date("Dec 26, 2021 00:00:00");
-daysToXmas(date1);
+sumPairs([1, 2, 3, 4, 5], 7);
